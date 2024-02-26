@@ -8,4 +8,5 @@ reports/*
 data/input/*
 data/
 venv/
+raw/
 .ipynb_checkpoints/
