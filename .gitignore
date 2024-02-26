@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+data/raw/*
+data/input/personal_doctor_*
+reports/*
+data/input/*
+data/
+venv/
+.ipynb_checkpoints/
