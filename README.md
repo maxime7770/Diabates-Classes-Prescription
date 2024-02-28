@@ -235,14 +235,14 @@ and prioritize their own well-being, rather than worrying or taking care of thos
 
 <img width="1250" alt="Screenshot 2024-02-28 at 11 39 06 AM" src="https://github.com/maxime7770/Diabetes-Classes-Prescription/assets/58089609/32df7b0d-467d-4d98-b070-8aefc008dd12">
 
-Figure 1: Optimal policy tree for mental health outcomes (𝜆= 0 ).
+Figure 1: Optimal policy tree for mental health outcomes (𝜆=0)
 
 
 ### Physical Health Model (𝜆=1)
 
 <img width="667" alt="Screenshot 2024-02-28 at 11 39 22 AM" src="https://github.com/maxime7770/Diabetes-Classes-Prescription/assets/58089609/1cce583f-a4a5-4217-8cee-42732ef5a5e8">
 
-Figure 2: Optimal policy tree for physical health outcomes (𝜆= 1 ).
+Figure 2: Optimal policy tree for physical health outcomes (𝜆=1)
 
 
 - Young females with multiple physical conditions (23.5% improvement): Women with
@@ -264,7 +264,7 @@ may have materially complex needs that are better managed by medical practitione
 
 <img width="668" alt="Screenshot 2024-02-28 at 11 40 44 AM" src="https://github.com/maxime7770/Diabetes-Classes-Prescription/assets/58089609/3c76b60e-770c-49b4-807f-46a1d75075bf">
 
-Figure 3: Optimal policy tree for blended health outcomes (𝜆= 0. 6 ).
+Figure 3: Optimal policy tree for blended health outcomes (𝜆=0.6)
 
 
 - Young people with sleep issues and have children (51% improvement): This group is likely
@@ -294,7 +294,7 @@ experts in the validation process allows us to align our prescriptions with curr
 established standards of care, and clinical guidelines.
 
 To support potential discussions with medical experts, we have developed an interactive user
-interface (Appendix A). The tool allows users to select various values of 𝜆, and to observe the policy
+interface (see below). The tool allows users to select various values of 𝜆, and to observe the policy
 tree and predicted outcomes (and improvements), which can be discussed, critiqued, and validated.
 The tool also provides functionality to input specific patient characteristics and output the
 prescribed policy, which may be useful should the model be deployed in a clinical setting.
