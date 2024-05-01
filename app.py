@@ -1,7 +1,9 @@
 import streamlit as st
 
-st.set_page_config(layout="wide")
-
+st.set_page_config(
+    layout="wide",
+    theme={"base": "light"}
+)
 # title of the app  
 st.title('Prescribing diabetes self-management classes')
 
